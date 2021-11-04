@@ -8,17 +8,20 @@
 - ⚡ Fun fact: ...
 
 -->
-🧑‍💻 !Vagelis Fragkos | Tech Evangelist (😝) | 
+🧑‍💻 **Vagelis Fragkos ✨ Tech Evangelist (😝) ✨ 🌎  Athens, 🇬🇷 **
 
- Athens, Greece
 [About me](https://www.linkedin.com/in/vagelisfragkos/)
 
 - 🔭 To check what I’m currently working on, please view my [Polywork](https://www.polywork.com/vagelisfr) page. 
 - 🌱 I’m currently learning mainly via [Pluralsight](https://app.pluralsight.com/profile/evangelos-fragkos-d9) and Udemy [Devops, Data Science, IoT]
 - 💬 Ask me about ...everything cause I love to socialize, debate and learn!
 - 📚 I love reading books related to philosophy, self-improvement as well as sci-fi, adventures, crime novels and more. Add me on [Goodreads](https://www.goodreads.com/user/show/4903808-vagelis)
-- 🎤 I also have a podcast named "TechIoT" related as the name implies , to Tech and Internet of Things. Listen on [Anchor](https://anchor.fm/techiot) with links to 8 platforms!
+- 🎤 I also have a podcast named "TechIoT" related as the name implies , to Tech and Internet of Things. Listen on [Anchor](https://anchor.fm/techiot) with links to 8 platforms
+ and podcast also on [youtube](https://www.youtube.com/techiot).
 
 - 📫 How to reach me: [@xneo1](https://twitter.com/xneo1)
 
-
+####Also check out my blogs:
+[Vagelisfragkos.com - My Personal Website](https://www.vagelisfragkos.com/en/)
+[Gadgetocosmos.com - All about gadgets!](https://www.gadgetocosmos.com/)
+[Yamyam - The stomach delight!](https://www.yamyam.gr/)
