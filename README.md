@@ -22,6 +22,6 @@
 - 📫 How to reach me: [@xneo1](https://twitter.com/xneo1)
 
 ### Also check out my blogs:
-[Vagelisfragkos.com - My Personal Website](https://www.vagelisfragkos.com/en/)
-[Gadgetocosmos.com - All about gadgets!](https://www.gadgetocosmos.com/)
-[Yamyam - The stomach delight!](https://www.yamyam.gr/)
+- [Vagelisfragkos.com - My Personal Website](https://www.vagelisfragkos.com/en/)
+- [Gadgetocosmos.com - All about gadgets!](https://www.gadgetocosmos.com/)
+- [Yamyam - The stomach delight!](https://www.yamyam.gr/)
