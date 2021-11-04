@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ...
 
 -->
-🧑‍💻 ###Vagelis Fragkos | Tech Evangelist (😝) | ![image](https://user-images.githubusercontent.com/2511293/140306880-3b525680-4199-402b-8e32-07882f2b1397.png)
+🧑‍💻 ###Vagelis Fragkos | Tech Evangelist (😝) | ![image](https://user-images.githubusercontent.com/2511293/140307043-37c67165-a3eb-4a9b-9f0f-f1ecbb505038.png)
  Athens, Greece
 [About me](https://www.linkedin.com/in/vagelisfragkos/)
 
