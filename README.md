@@ -27,6 +27,8 @@
 - [Yamyam - The stomach delight!](https://www.yamyam.gr/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xneo1&show_icons=true&theme=outrun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xneo1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### ...And some pinned repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=portainer_templates&theme=calm)](https://github.com/xneo1/portainer_templates)
