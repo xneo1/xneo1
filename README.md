@@ -28,7 +28,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xneo1&show_icons=true&theme=outrun)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=tailscale-udm)](https://github.com/xneo1/tailscale-udm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=tailscale-udm&theme=synthwave)](https://github.com/xneo1/tailscale-udm)
 
 
 
