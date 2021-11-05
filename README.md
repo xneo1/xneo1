@@ -27,4 +27,6 @@
 - [Yamyam - The stomach delight!](https://www.yamyam.gr/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xneo1)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xneo1&show_icons=true)
+
 
