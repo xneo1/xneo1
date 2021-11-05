@@ -26,7 +26,7 @@
 - [Gadgetocosmos.com - All about gadgets!](https://www.gadgetocosmos.com/)
 - [Yamyam - The stomach delight!](https://www.yamyam.gr/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xneo1&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xneo1&show_icons=true&theme=outrun)
 
 
 
