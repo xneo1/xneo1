@@ -29,8 +29,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xneo1&show_icons=true&theme=outrun)
 
 ### ...And some pinned repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=tailscale-udm&theme=synthwave)](https://github.com/xneo1/tailscale-udm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=portainer_templates&theme=calm)](https://github.com/xneo1/portainer_templates)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=tailscale-udm&theme=synthwave)](https://github.com/xneo1/tailscale-udm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=supervised-homeassistant&theme=omni)](https://github.com/xneo1/supervised-homeassistant)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=M5Stack-Air-Quality-ESPHome&theme=omni)](https://github.com/xneo1/M5Stack-Air-Quality-ESPHome)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=pi-hole-influx&theme=omni)](https://github.com/xneo1/pi-hole-influx)
