@@ -30,6 +30,8 @@
 
 - 📫 How to reach me: [@xneo1](https://twitter.com/xneo1)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1259912891&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ### Also check out my blogs:
 - [Vagelisfragkos.com - My Personal Website](https://www.vagelisfragkos.com/en/)
 - [Gadgetocosmos.com - All about gadgets!](https://www.gadgetocosmos.com/)
@@ -43,6 +45,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=supervised-homeassistant&theme=omni)](https://github.com/xneo1/supervised-homeassistant)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=M5Stack-Air-Quality-ESPHome&theme=omni)](https://github.com/xneo1/M5Stack-Air-Quality-ESPHome)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=pi-hole-influx&theme=omni)](https://github.com/xneo1/pi-hole-influx)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1259912891&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
