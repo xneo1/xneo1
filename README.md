@@ -10,6 +10,17 @@
 -->
 ## 🧑‍💻 Evangelos (Vagelis) Fragkos | Tech Evangelist (😝) | 🌎  Athens, 🇬🇷 
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/c/techiot"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/xneo1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://polywork.com/vagelisfr"><img width="32px" alt="Polywork" title="Vagelis Fragkos" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/cljekxq9j2canvsydesy"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 [About me](https://www.linkedin.com/in/vagelisfragkos/)
 
 - 🔭 To check what I’m currently working on, please view my [Polywork](https://www.polywork.com/vagelisfr) page. 
