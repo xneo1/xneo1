@@ -10,7 +10,7 @@
 -->
 ## 🧑‍💻 Evangelos (Vagelis) Fragkos | Tech Evangelist (😝) | 🌎  Athens, 🇬🇷 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Evangelos++Fragkos;Tech+Evangelist+from+Athens%2C+Greece)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Tech+Evangelist+(%F0%9F%98%9D)+-+%F0%9F%8C%8E+Athens+Greece)](https://git.io/typing-svg)
 
 <!-- Social icons section -->
 <p align="center">
