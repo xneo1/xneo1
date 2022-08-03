@@ -56,16 +56,19 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-purple?style=flat-circle&logo=html5)
 
 ### Frameworks:
-![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
-<code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
 
-### Tools I use:
+
+### Tools, Technologies & Frameworks I use:
 ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=visualstudiocode)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
-![Bash](https://img.shields.io/badge/-Bash-blue?style=flat-circle&logo=gnubash)
+<code><a href="https://www.gnu.org/software/bash">![Bash](https://img.shields.io/badge/-Bash-blue?style=flat-circle&logo=gnubash)</a></code>
+![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
 <code><a href="https://www.github.com/">![Github](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)</a></code>
+<code><a href="https://www.linode.com/">![Linode](https://img.shields.io/badge/-Linode-blue?style=flat-circle&logo=linode)</a></code>
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 ### Learning/Tinkering with:
 ![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE.JS)
@@ -78,7 +81,7 @@
 
 ### Environments I use:
 ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)
-<code><a href="https://www.linode.com/">![Linode](https://img.shields.io/badge/-Linode-blue?style=flat-circle&logo=linode)</a></code>
+
 <code><a href="https://www.ubuntu.com/">![Ubuntu](https://img.shields.io/badge/-Ubuntu-blue?style=flat-circle&logo=ubuntu)</a></code>
 <code><a href="https://archlinux.org/">![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-blue?style=flat-circle&logo=archlinux)</a></code>
 <code><a href="https://www.raspberrypi.org/">![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-red?style=flat-circle&logo=raspberrypi)</a></code>
