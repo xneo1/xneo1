@@ -1,3 +1,13 @@
+
+## Hi random Internet user ! 👋
+<!--#**xneo1/xneo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
   <div id="badges">
@@ -13,14 +23,6 @@
 </div>
 </div>
 
-## Hi random Internet user ! 👋
-<!--#**xneo1/xneo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 ## 🧑‍💻 Evangelos (Vagelis) Fragkos | 🌎  Athens, 🇬🇷  
 <h2>Proud dad of twin sons 👦👦 since March 2022!</h2>
 
