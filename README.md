@@ -56,7 +56,7 @@
 ### In My Homelab I use the following:
 [![ESXI](https://img.shields.io/badge/-ESXI-blue?style=flat-circle&logo=vmware)](https://www.vmware.com)
 [![Proxmox](https://img.shields.io/badge/-Proxmox-blue?style=flat-circle&logo=proxmox)](https://www.proxmox.com)
-[![OMV](https://img.shields.io/badge/-Open-Media-Vault-blue?style=flat-circle&logo=omv)](https://www.openmediavault.org)
+[![OMV](https://img.shields.io/badge/-Open-Media-Vault-orange?style=flat-circle)](https://www.openmediavault.org)
 
 ### Tools, Technologies & Frameworks I use:
 [![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=visualstudiocode)](https://code.visualstudio.com)
