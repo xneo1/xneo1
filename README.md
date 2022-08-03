@@ -57,6 +57,7 @@
 
 ### Frameworks:
 ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
+<code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
 
 ### Tools I use:
 ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
