@@ -64,11 +64,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
-![Bash](https://img.shields.io/badge/-Bash-red?style=flat-circle&logo=bash)
+![Bash](https://img.shields.io/badge/-Bash-blue?style=flat-circle&logo=gnubash)
 ![Github](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
 
 ### Learning/Tinkering with:
-![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)
+![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE.JS)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
 
