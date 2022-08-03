@@ -16,7 +16,8 @@
 - 🔭 To check what I’m currently working on, please view my [![Polywork](https://img.shields.io/badge/-Polywork-red?style=flat-circle&logo=polywork)](https://polywork.com/vagelisfr) or [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-circle&logo=linkedin)](https://www.linkedin.com/in/vagelisfragkos) pages. 
 - 🌱 I’m currently learning mainly via [![Plurasight](https://img.shields.io/badge/-Pluralsight-white?style=flat-circle&logo=pluralsight)](https://www.pluralsight.com) and [![Udemy](https://img.shields.io/badge/-Udemy-white?style=flat-circle&logo=udemy)](https://www.udemy.com) [Devops, Data Science, IoT]
 - 💬 Ask me about ...everything cause I love to socialize, debate and learn!
-- 📚 I love reading books related to philosophy, self-improvement as well as sci-fi, adventures, crime novels and more. Add me on [![Goodreads](https://img.shields.io/badge/-Goodreads-orange?style=flat-circle&logo=Goodreads)](https://www.goodreads.com/user/show/4903808-vagelis)
+- 📚 I love reading books related to philosophy, self-improvement as well as sci-fi, adventures, crime novels and more.
+  Add me on [![Goodreads](https://img.shields.io/badge/-Goodreads-orange?style=flat-circle&logo=Goodreads)](https://www.goodreads.com/user/show/4903808-vagelis)
 - 🎤 I also have a podcast named "TechIoT" related as the name implies , to Tech and Internet of Things. Listen on [![Anchor.fm](https://img.shields.io/badge/-Anchor.fm-black?style=flat-circle&logo=anchor)](https://www.anchor.fm/techiot) with links to 8 platforms. Also podcast is on on [![Youtube](https://img.shields.io/badge/-Youtube.fm-black?style=flat-circle&logo=youtube)](https://www.youtube.com/techiot)
 - 📫 How to reach me: [@xneo1](https://twitter.com/xneo1)
 
