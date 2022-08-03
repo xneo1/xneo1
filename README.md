@@ -56,7 +56,7 @@
 
 ### Tools, Technologies & Frameworks I use:
 [![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=visualstudiocode)](https://code.visualstudio.com)
-[![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)](https://www.markdownguide.org)
+[![Markdown](https://img.shields.io/badge/-Markdown-white?logoColor=black&?style=flat-circle&logo=markdown)](https://www.markdownguide.org)
 [![Obsidian](https://img.shields.io/badge/-Obsidian-purple?style=flat-circle&logo=obsidian)](https://obsidian.md)
 [![Terraform](https://img.shields.io/badge/-Terraform-blue?style=flat-circle&logo=terraform)](https://www.terraform.io)
 [![Ansible](https://img.shields.io/badge/-Ansible-blue?style=flat-circle&logo=ansible)](https://www.ansible.com)
