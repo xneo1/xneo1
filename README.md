@@ -63,7 +63,7 @@
 [![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)](https://www.docker.com)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)](https://kubernetes.io)
 [![Bash](https://img.shields.io/badge/-Bash-blue?style=flat-circle&logo=gnubash)](https://www.gnu.org/software/bash)
-[![CSS3](https://img.shields.io/badge/-CSS3-yellow?logoColor=black&?style=flat-circle&logo=css3)](https://www.w3schools.com/css/)
+[![CSS3](https://img.shields.io/badge/-CSS3-white?logoColor=black&?style=flat-circle&logo=css3)](https://www.w3schools.com/css/)
 [![Github](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)](https://www.github.com/)
 [![Linode](https://img.shields.io/badge/-Linode-blue?style=flat-circle&logo=linode)](https://www.linode.com/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)](https://www.tensorflow.org)
