@@ -55,8 +55,6 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-purple?style=flat-circle&logo=html5)
 
-### Frameworks:
-
 
 ### Tools, Technologies & Frameworks I use:
 ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=visualstudiocode)
@@ -88,3 +86,7 @@
 [![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-blue?style=flat-circle&logo=archlinux)](https://www.archlinux.org/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-red?style=flat-circle&logo=raspberrypi)](https://www.raspberrypi.org)
 [![WindowsS](https://img.shields.io/badge/-Windows-blue?style=flat-circle&logo=windows)](https://www.microsoft.com/en-us/windows)
+
+### Home Automation:
+[![Smartthings](https://img.shields.io/badge/-Smartthings-blue?style=flat-circle&logo=smartthings)](https://www.smartthings.com)
+[![Xiaomi MI Home](https://img.shields.io/badge/-Xiaomi MI Home-white?style=flat-circle&logo=xiaomi)](https://www.mi.com/global/)
