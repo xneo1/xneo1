@@ -58,27 +58,29 @@
 
 ### Tools, Technologies & Frameworks I use:
 ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=visualstudiocode)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
-![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
-<code><a href="https://www.gnu.org/software/bash">![Bash](https://img.shields.io/badge/-Bash-blue?style=flat-circle&logo=gnubash)</a></code>
-![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
-<code><a href="https://www.github.com/">![Github](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)</a></code>
-<code><a href="https://www.linode.com/">![Linode](https://img.shields.io/badge/-Linode-blue?style=flat-circle&logo=linode)</a></code>
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
+[![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)](https://www.markdownguide.org)
+
+[![Terraform](https://img.shields.io/badge/-Terraform-blue?style=flat-circle&logo=terraform)](https://www.terraform.io)
+[![Ansible](https://img.shields.io/badge/-Ansible-blue?style=flat-circle&logo=ansible)](https://www.ansible.com)
+[![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)](https://www.docker.com)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)](https://kubernetes.io)
+[![Bash](https://img.shields.io/badge/-Bash-blue?style=flat-circle&logo=gnubash)](https://www.gnu.org/software/bash)
+[![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)](https://www.w3schools.com/css/)
+[![Github](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)](https://www.github.com/)
+[![Linode](https://img.shields.io/badge/-Linode-blue?style=flat-circle&logo=linode)](https://www.linode.com/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)](https://www.tensorflow.org)
 
 ### Learning/Tinkering with:
-![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE.JS)
-![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)
-![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
+[![VUEJS](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE.JS)](https://vuejs.org)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)](https://www.mongodb.com)
+[![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)](https://nodejs.org)
 
 ### Dbs that I use:
-![MariaDB](https://img.shields.io/badge/-Mariadb-brown?style=flat-circle&logo=mariadb)
-
+[![MariaDB](https://img.shields.io/badge/-Mariadb-brown?style=flat-circle&logo=mariadb)](https://mariadb.org)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)](https://www.mongodb.com)
 
 ### Environments I use:
-
 [![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)](https://www.linux.org/)
 [![Pop!_OS](https://img.shields.io/badge/-Pop!_OS-purple?style=flat-circle&logo=popos)](https://pop.system76.com)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-blue?style=flat-circle&logo=ubuntu)](https://www.ubuntu.com/)
