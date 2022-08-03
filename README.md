@@ -80,8 +80,8 @@
 
 
 ### Environments I use:
-![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)
-
+<code><a href="https://www.linux.org/">![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)</a></code>
+<code><a href="https://pop.system76.com">![Pop!_OS](https://img.shields.io/badge/-Pop!_OS-purple?style=flat-circle&logo=popos)</a></code>
 <code><a href="https://www.ubuntu.com/">![Ubuntu](https://img.shields.io/badge/-Ubuntu-blue?style=flat-circle&logo=ubuntu)</a></code>
-<code><a href="https://archlinux.org/">![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-blue?style=flat-circle&logo=archlinux)</a></code>
+<code><a href="https://www.archlinux.org/">![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-blue?style=flat-circle&logo=archlinux)</a></code>
 <code><a href="https://www.raspberrypi.org/">![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-red?style=flat-circle&logo=raspberrypi)</a></code>
