@@ -47,15 +47,27 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=M5Stack-Air-Quality-ESPHome&theme=omni)](https://github.com/xneo1/M5Stack-Air-Quality-ESPHome)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=pi-hole-influx&theme=omni)](https://github.com/xneo1/pi-hole-influx)
 
-### Languages
-
+### Languages:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-purple?style=flat-circle&logo=html5)
 
-### Tools I use
+### Frameworks:
+![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
+
+### Tools I use:
+![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
+![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
+![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell)
+![Github](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
 
+### Learning/Tinkering with:
+![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)
 
+### OS that I use:
+![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)
