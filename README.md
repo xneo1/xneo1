@@ -17,15 +17,14 @@
 <p align="center">
   <a href="https://www.youtube.com/c/techiot"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   <a href="https://twitter.com/xneo1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  <a href="https://polywork.com/vagelisfr"><img width="32px" alt="Polywork" title="Vagelis Fragkos" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/cljekxq9j2canvsydesy"></a>
 </p>
 
 [About me](https://www.linkedin.com/in/vagelisfragkos/)
 
-- 🔭 To check what I’m currently working on, please view my [Polywork](https://www.polywork.com/vagelisfr) page. 
+- 🔭 To check what I’m currently working on, please view my [![Polywork](https://img.shields.io/badge/-Polywork-red?style=flat-circle&logo=polywork)](https://polywork.com/vagelisfr) page. 
 - 🌱 I’m currently learning mainly via [![Plurasight](https://img.shields.io/badge/-Pluralsight-white?style=flat-circle&logo=pluralsight)](https://www.pluralsight.com) and [![Udemy](https://img.shields.io/badge/-Udemy-white?style=flat-circle&logo=udemy)](https://www.udemy.com) [Devops, Data Science, IoT]
 - 💬 Ask me about ...everything cause I love to socialize, debate and learn!
-- 📚 I love reading books related to philosophy, self-improvement as well as sci-fi, adventures, crime novels and more. Add me on [Goodreads](https://www.goodreads.com/user/show/4903808-vagelis)
+- 📚 I love reading books related to philosophy, self-improvement as well as sci-fi, adventures, crime novels and more. Add me on [![Goodreads](https://img.shields.io/badge/-Goodreads-orange?style=flat-circle&logo=Goodreads)](https://www.goodreads.com/user/show/4903808-vagelis)
 - 🎤 I also have a podcast named "TechIoT" related as the name implies , to Tech and Internet of Things. Listen on [![Anchor.fm](https://img.shields.io/badge/-Anchor.fm-black?style=flat-circle&logo=anchor)](https://www.anchor.fm/techiot) with links to 8 platforms. Also podcast is on on [![Youtube](https://img.shields.io/badge/-Youtube.fm-black?style=flat-circle&logo=youtube)](https://www.youtube.com/techiot)
 - 📫 How to reach me: [@xneo1](https://twitter.com/xneo1)
 
