@@ -11,7 +11,7 @@
 ## 🧑‍💻 Evangelos (Vagelis) Fragkos | 🌎  Athens, 🇬🇷  
 <h2>Proud dad of twin sons since March 2022!</h2>
 
-[![About me](https://img.shields.io/badge/-Polywork-red?style=flat-circle&logo=polywork)](https://www.linkedin.com/in/vagelisfragkos)
+[![About me](https://img.shields.io/badge/-About-blue?style=flat-circle&logo=linkedin)](https://www.linkedin.com/in/vagelisfragkos)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Tech+Evangelist+(%F0%9F%98%9D))](https://git.io/typing-svg)
 
