@@ -51,7 +51,7 @@
 [![Python](https://img.shields.io/badge/-Python-white?style=flat-circle&logo=python)](https://www.python.org)
 [![JavaScript](https://img.shields.io/badge/-Javascript-white?style=flat-circle&logo=javascript)](https://www.javascript.com)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-circle&logo=typescript)](https://www.typescriptlang.org)
-[![C++](https://img.shields.io/badge/-C++-white?style=flat-circle&logo=cplusplus)](https://www.w3schools.com/cpp/)
+[![C++](https://img.shields.io/badge/-C++-white?logoColor=black&?style=flat-circle&logo=cplusplus)](https://www.w3schools.com/cpp/)
 [![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat-circle&logo=html5)](https://www.w3schools.com/html/)
 
 ### Tools, Technologies & Frameworks I use:
