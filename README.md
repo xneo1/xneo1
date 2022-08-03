@@ -57,10 +57,9 @@
 
 
 ### Tools, Technologies & Frameworks I use:
-![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=visualstudiocode)
-
+[![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=visualstudiocode)](https://code.visualstudio.com)
 [![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)](https://www.markdownguide.org)
-
+[![Obsidian](https://img.shields.io/badge/-Obsidian-purple?style=flat-circle&logo=obsidian)](https://obsidian.md)
 [![Terraform](https://img.shields.io/badge/-Terraform-blue?style=flat-circle&logo=terraform)](https://www.terraform.io)
 [![Ansible](https://img.shields.io/badge/-Ansible-blue?style=flat-circle&logo=ansible)](https://www.ansible.com)
 [![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)](https://www.docker.com)
@@ -72,7 +71,7 @@
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)](https://www.tensorflow.org)
 
 ### Learning/Tinkering with:
-[![VUEJS](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE.JS)](https://vuejs.org)
+[![VueJS](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE.JS)](https://vuejs.org)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)](https://www.mongodb.com)
 [![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)](https://nodejs.org)
 
