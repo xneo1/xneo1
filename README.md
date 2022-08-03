@@ -85,9 +85,12 @@
 [![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash)](https://www.elastic.co/logstash/)
 [![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana)](https://www.elastic.co/kibana/)
 
-### Meswsaging platforms I use:
+### Messsaging platforms I use:
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 ![Element](https://img.shields.io/badge/Element-black?style=flat-square&logo=element)
+![Viber](https://img.shields.io/badge/Viber-black?style=flat-square&logo=viber)
+![Whatsapp](https://img.shields.io/badge/Whatsapp-black?style=flat-square&logo=whatsapp)
+![Telegram](https://img.shields.io/badge/Telegram-black?style=flat-square&logo=telegram)
 
 ### Learning/Tinkering with:
 [![VueJS](https://img.shields.io/badge/-VueJS-blue?style=flat-circle&logo=VUE.JS)](https://vuejs.org)
