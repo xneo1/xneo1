@@ -85,7 +85,6 @@
 [![Pop!_OS](https://img.shields.io/badge/-Pop!_OS-purple?style=flat-circle&logo=popos)](https://pop.system76.com)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-blue?style=flat-circle&logo=ubuntu)](https://www.ubuntu.com/)
 [![centOS](https://img.shields.io/badge/CentOS-8.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
+[![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-blue?style=flat-circle&logo=archlinux)](https://www.archlinux.org/)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-red?style=flat-circle&logo=raspberrypi)](https://www.raspberrypi.org)
 [![WindowsS](https://img.shields.io/badge/-Windows-blue?style=flat-circle&logo=windows)](https://www.microsoft.com/en-us/windows)
-
-<code><a href="https://www.archlinux.org/">![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-blue?style=flat-circle&logo=archlinux)</a></code>
-<code><a href="https://www.raspberrypi.org/">![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-red?style=flat-circle&logo=raspberrypi)</a></code>
