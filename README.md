@@ -48,13 +48,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=pi-hole-influx&theme=omni)](https://github.com/xneo1/pi-hole-influx)
 
 ### Languages:
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-purple?style=flat-circle&logo=html5)
-
+[![Python](https://img.shields.io/badge/-Python-white?style=flat-circle&logo=python)](https://www.python.org)
+[![JavaScript](https://img.shields.io/badge/-Javascript-white?style=flat-circle&logo=javascript)](https://www.javascript.com)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-circle&logo=typescript)](https://www.typescriptlang.org)
+[![C++](https://img.shields.io/badge/-C++-white?style=flat-circle&logo=cplusplus)](https://www.w3schools.com/cpp/)
+[![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat-circle&logo=html5)](https://www.w3schools.com/html/)
 
 ### Tools, Technologies & Frameworks I use:
 [![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=visualstudiocode)](https://code.visualstudio.com)
@@ -81,12 +79,13 @@
 
 ### Environments I use:
 [![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)](https://www.linux.org/)
+[![WindowsS](https://img.shields.io/badge/-Windows-blue?style=flat-circle&logo=windows)](https://www.microsoft.com/en-us/windows)
 [![Pop!_OS](https://img.shields.io/badge/-Pop!_OS-purple?style=flat-circle&logo=popos)](https://pop.system76.com)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-blue?style=flat-circle&logo=ubuntu)](https://www.ubuntu.com/)
 [![centOS](https://img.shields.io/badge/CentOS-8.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
 [![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-blue?style=flat-circle&logo=archlinux)](https://www.archlinux.org/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-red?style=flat-circle&logo=raspberrypi)](https://www.raspberrypi.org)
-[![WindowsS](https://img.shields.io/badge/-Windows-blue?style=flat-circle&logo=windows)](https://www.microsoft.com/en-us/windows)
+
 
 ### Home Automation technologies:
 [![Smartthings](https://img.shields.io/badge/-Smartthings-white?style=flat-circle&logo=smartthings)](https://www.smartthings.com)
