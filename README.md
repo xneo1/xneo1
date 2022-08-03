@@ -71,10 +71,19 @@
 [![Bash](https://img.shields.io/badge/-Bash-blue?style=flat-circle&logo=gnubash)](https://www.gnu.org/software/bash)
 [![CSS3](https://img.shields.io/badge/-CSS3-white?logoColor=black&?style=flat-circle&logo=css3)](https://www.w3schools.com/css/)
 [![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)](https://www.php.net)
-
 [![Github](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)](https://www.github.com/)
 [![Linode](https://img.shields.io/badge/-Linode-blue?style=flat-circle&logo=linode)](https://www.linode.com/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)](https://www.tensorflow.org)
+[![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)](https://www.postman.com)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-red?style=flat-circle&logo=raspberrypi)](https://www.raspberrypi.org)
+[![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)](https://www.arduino.cc)
+[![Nextcloud](https://img.shields.io/badge/Nextcloud-0484cc?style=flat-square&logo=nextcloud)](https://nextcloud.com)
+[![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)](https://grafana.com)
+[![InfluxDB](https://img.shields.io/badge/InfluxDB-black?style=flat-square&logo=influxdb)](https://www.influxdata.com)
+[![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)](https://httpd.apache.org)
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)](https://www.elastic.co)
+[![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash)](https://www.elastic.co/logstash/)
+[![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana)](https://www.elastic.co/kibana/)
 
 ### Learning/Tinkering with:
 [![VueJS](https://img.shields.io/badge/-VueJS-blue?style=flat-circle&logo=VUE.JS)](https://vuejs.org)
@@ -92,10 +101,6 @@
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-blue?style=flat-circle&logo=ubuntu)](https://www.ubuntu.com/)
 [![centOS](https://img.shields.io/badge/CentOS-8.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
 [![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-blue?style=flat-circle&logo=archlinux)](https://www.archlinux.org/)
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-red?style=flat-circle&logo=raspberrypi)](https://www.raspberrypi.org)
-
-
-
 
 ### Home Automation technologies:
 [![Smartthings](https://img.shields.io/badge/-Smartthings-white?style=flat-circle&logo=smartthings)](https://www.smartthings.com)
