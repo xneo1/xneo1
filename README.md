@@ -87,10 +87,10 @@
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-red?style=flat-circle&logo=raspberrypi)](https://www.raspberrypi.org)
 [![WindowsS](https://img.shields.io/badge/-Windows-blue?style=flat-circle&logo=windows)](https://www.microsoft.com/en-us/windows)
 
-### Home Automation:
+### Home Automation technologies:
 [![Smartthings](https://img.shields.io/badge/-Smartthings-white?style=flat-circle&logo=smartthings)](https://www.smartthings.com)
 [![Xiaomi MI Home](https://img.shields.io/badge/-Xiaomi%20Home-white?style=flat-circle&logo=xiaomi)](https://www.mi.com/global)
 [![Shelly](https://img.shields.io/badge/-Shelly-white?style=flat-circle&logo=shelly)](https://shelly.cloud)
-[![Zwave](https://img.shields.io/badge/-Zwave-white?style=flat-circle&logo=zwave)](https://www.z-wave.com)
-[![Zigbee](https://img.shields.io/badge/-Zigbee-white?style=flat-circle&logo=zigbee)](https://csa-iot.org/all-solutions/zigbee/)
-[![Matter](https://img.shields.io/badge/-Matter-white?style=flat-circle&logo=matter)](https://csa-iot.org/all-solutions/matter/)
+[![Zwave](https://img.shields.io/badge/-Zwave-gray?style=flat-circle&logo=zwave)](https://www.z-wave.com)
+[![Zigbee](https://img.shields.io/badge/-Zigbee-gray?style=flat-circle&logo=zigbee)](https://csa-iot.org/all-solutions/zigbee/)
+[![Matter](https://img.shields.io/badge/-Matter-gray?style=flat-circle&logo=matter)](https://csa-iot.org/all-solutions/matter/)
