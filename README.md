@@ -8,7 +8,8 @@
 - ⚡ Fun fact: ...
 
 -->
-## 🧑‍💻 Evangelos (Vagelis) Fragkos | 🌎  Athens, 🇬🇷  | Proud dad of twin sons since March 2022!
+## 🧑‍💻 Evangelos (Vagelis) Fragkos | 🌎  Athens, 🇬🇷  
+<h2>Proud dad of twin sons since March 2022!</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Tech+Evangelist+(%F0%9F%98%9D))](https://git.io/typing-svg)
 
