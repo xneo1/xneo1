@@ -1,8 +1,8 @@
+## Hi random Internet user ! 👋
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-## Hi random Internet user ! 👋
-
 
 <!--#**xneo1/xneo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
