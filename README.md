@@ -53,12 +53,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=M5Stack-Air-Quality-ESPHome&theme=omni)](https://github.com/xneo1/M5Stack-Air-Quality-ESPHome)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=pi-hole-influx&theme=omni)](https://github.com/xneo1/pi-hole-influx)
 
-### Languages:
-[![Python](https://img.shields.io/badge/-Python-white?style=flat-circle&logo=python)](https://www.python.org)
-[![JavaScript](https://img.shields.io/badge/-Javascript-white?style=flat-circle&logo=javascript)](https://www.javascript.com)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-circle&logo=typescript)](https://www.typescriptlang.org)
-[![C++](https://img.shields.io/badge/-C++-white?logoColor=black&?style=flat-circle&logo=cplusplus)](https://www.w3schools.com/cpp/)
-[![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat-circle&logo=html5)](https://www.w3schools.com/html/)
+### In My Homelab I use the following:
+[![ESXI](https://img.shields.io/badge/-ESXI-blue?style=flat-circle&logo=vmware)](https://www.vmware.com)
+[![Proxmox](https://img.shields.io/badge/-Proxmox-blue?style=flat-circle&logo=proxmox)](https://www.proxmox.com)
+[![OMV](https://img.shields.io/badge/-Open-Media-Vault-blue?style=flat-circle&logo=omv)](https://www.openmediavault.org)
 
 ### Tools, Technologies & Frameworks I use:
 [![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=visualstudiocode)](https://code.visualstudio.com)
@@ -84,6 +82,13 @@
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)](https://www.elastic.co)
 [![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash)](https://www.elastic.co/logstash/)
 [![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana)](https://www.elastic.co/kibana/)
+
+### Languages:
+[![Python](https://img.shields.io/badge/-Python-white?style=flat-circle&logo=python)](https://www.python.org)
+[![JavaScript](https://img.shields.io/badge/-Javascript-white?style=flat-circle&logo=javascript)](https://www.javascript.com)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-circle&logo=typescript)](https://www.typescriptlang.org)
+[![C++](https://img.shields.io/badge/-C++-white?logoColor=black&?style=flat-circle&logo=cplusplus)](https://www.w3schools.com/cpp/)
+[![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat-circle&logo=html5)](https://www.w3schools.com/html/)
 
 ### Messsaging platforms I use:
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
