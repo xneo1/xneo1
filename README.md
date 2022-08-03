@@ -63,11 +63,16 @@
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
-![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell)
+![Bash](https://img.shields.io/badge/-Bash-red?style=flat-circle&logo=bash)
 ![Github](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
 
 ### Learning/Tinkering with:
 ![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)
+![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)
+
+### Dbs that I use:
+![MariaDB](https://img.shields.io/badge/-Mariadb-brown?style=flat-circle&logo=mariadb)!
+
 
 ### OS that I use:
 ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)
