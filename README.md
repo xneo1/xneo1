@@ -60,7 +60,7 @@
 <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
 
 ### Tools I use:
-![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
+![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=visualstudiocode)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
