@@ -90,3 +90,4 @@
 ### Home Automation:
 [![Smartthings](https://img.shields.io/badge/-Smartthings-blue?style=flat-circle&logo=smartthings)](https://www.smartthings.com)
 [![Xiaomi MI Home](https://img.shields.io/badge/-Xiaomi%20Home-blue?style=flat-circle&logo=xiaomi)](https://www.mi.com/global)
+[![Shelly](https://img.shields.io/badge/-Shelly-white?style=flat-circle&logo=shelly)](https://shelly.cloud)
