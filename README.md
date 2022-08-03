@@ -89,5 +89,4 @@
 
 ### Home Automation:
 [![Smartthings](https://img.shields.io/badge/-Smartthings-blue?style=flat-circle&logo=smartthings)](https://www.smartthings.com)
-[![Smartthings](https://img.shields.io/badge/-Smartthings-blue?style=flat-circle&logo=smartthings)](https://www.smartthings.com)
-[![Xiaomi MI Home](https://img.shields.io/badge/-Xiaomi MI Home-white?style=flat-circle&logo=xiaomi)](https://www.mi.com/global)
+[![Xiaomi MI Home](https://img.shields.io/badge/-Xiaomi-MI-Home-white?style=flat-circle&logo=xiaomi)](https://www.mi.com/global)
