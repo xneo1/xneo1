@@ -30,6 +30,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xneo1&show_icons=true&theme=outrun)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xneo1XD&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
 ### ...And some pinned repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=portainer_templates&theme=calm)](https://github.com/xneo1/portainer_templates)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=docker-compose-collection&theme=calm)](https://github.com/xneo1/docker-compose-collection)
