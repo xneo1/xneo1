@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ...
 
 -->
-## 🧑‍💻 Evangelos (Vagelis) Fragkos | 🌎  Athens, 🇬🇷 
+## 🧑‍💻 Evangelos (Vagelis) Fragkos | 🌎  Athens, 🇬🇷  | Proud dad of twin sons since March 2022!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Tech+Evangelist+(%F0%9F%98%9D))](https://git.io/typing-svg)
 
@@ -23,6 +23,7 @@
 
 - 🔭 To check what I’m currently working on, please view my [Polywork](https://www.polywork.com/vagelisfr) page. 
 - 🌱 I’m currently learning mainly via [Pluralsight](https://app.pluralsight.com/profile/evangelos-fragkos-d9) and Udemy [Devops, Data Science, IoT]
+- 🌱 I’m currently learning mainly via [![Plurasight](https://img.shields.io/badge/-Pluralsight-white?style=flat-circle&logo=pluralsight)](https://www.pluralsight.com)
 - 💬 Ask me about ...everything cause I love to socialize, debate and learn!
 - 📚 I love reading books related to philosophy, self-improvement as well as sci-fi, adventures, crime novels and more. Add me on [Goodreads](https://www.goodreads.com/user/show/4903808-vagelis)
 - 🎤 I also have a podcast named "TechIoT" related as the name implies , to Tech and Internet of Things. Listen on [Anchor](https://anchor.fm/techiot) with links to 8 platforms
@@ -85,6 +86,8 @@
 [![centOS](https://img.shields.io/badge/CentOS-8.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
 [![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-blue?style=flat-circle&logo=archlinux)](https://www.archlinux.org/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-red?style=flat-circle&logo=raspberrypi)](https://www.raspberrypi.org)
+
+
 
 
 ### Home Automation technologies:
