@@ -13,13 +13,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Tech+Evangelist+(%F0%9F%98%9D))](https://git.io/typing-svg)
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/c/techiot"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  <a href="https://twitter.com/xneo1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-</p>
-
-[About me](https://www.linkedin.com/in/vagelisfragkos/)
+[![About me](https://img.shields.io/badge/-Linkedin-red?style=flat-circle&logo=linkedin)](https://www.linkedin.com/in/vagelisfragkos/)
 
 - 🔭 To check what I’m currently working on, please view my [![Polywork](https://img.shields.io/badge/-Polywork-red?style=flat-circle&logo=polywork)](https://polywork.com/vagelisfr) page. 
 - 🌱 I’m currently learning mainly via [![Plurasight](https://img.shields.io/badge/-Pluralsight-white?style=flat-circle&logo=pluralsight)](https://www.pluralsight.com) and [![Udemy](https://img.shields.io/badge/-Udemy-white?style=flat-circle&logo=udemy)](https://www.udemy.com) [Devops, Data Science, IoT]
