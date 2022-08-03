@@ -11,11 +11,9 @@
 ## 🧑‍💻 Evangelos (Vagelis) Fragkos | 🌎  Athens, 🇬🇷  
 <h2>Proud dad of twin sons since March 2022!</h2>
 
-[![About me](https://img.shields.io/badge/-About-blue?style=flat-circle&logo=linkedin)](https://www.linkedin.com/in/vagelisfragkos)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Tech+Evangelist+(%F0%9F%98%9D))](https://git.io/typing-svg)
 
-- 🔭 To check what I’m currently working on, please view my [![Polywork](https://img.shields.io/badge/-Polywork-red?style=flat-circle&logo=polywork)](https://polywork.com/vagelisfr) page. 
+- 🔭 To check what I’m currently working on, please view my [![Polywork](https://img.shields.io/badge/-Polywork-red?style=flat-circle&logo=polywork)](https://polywork.com/vagelisfr) or [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-circle&logo=linkedin)](https://www.linkedin.com/in/vagelisfragkos) pages. 
 - 🌱 I’m currently learning mainly via [![Plurasight](https://img.shields.io/badge/-Pluralsight-white?style=flat-circle&logo=pluralsight)](https://www.pluralsight.com) and [![Udemy](https://img.shields.io/badge/-Udemy-white?style=flat-circle&logo=udemy)](https://www.udemy.com) [Devops, Data Science, IoT]
 - 💬 Ask me about ...everything cause I love to socialize, debate and learn!
 - 📚 I love reading books related to philosophy, self-improvement as well as sci-fi, adventures, crime novels and more. Add me on [![Goodreads](https://img.shields.io/badge/-Goodreads-orange?style=flat-circle&logo=Goodreads)](https://www.goodreads.com/user/show/4903808-vagelis)
