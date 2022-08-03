@@ -85,6 +85,10 @@
 [![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash)](https://www.elastic.co/logstash/)
 [![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana)](https://www.elastic.co/kibana/)
 
+### Meswsaging platforms I use:
+![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+![Element](https://img.shields.io/badge/Element-black?style=flat-square&logo=element)
+
 ### Learning/Tinkering with:
 [![VueJS](https://img.shields.io/badge/-VueJS-blue?style=flat-circle&logo=VUE.JS)](https://vuejs.org)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)](https://www.mongodb.com)
