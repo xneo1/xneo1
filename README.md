@@ -41,6 +41,7 @@
 
 ### ...And some pinned repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=portainer_templates&theme=calm)](https://github.com/xneo1/portainer_templates)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=docker-compose-collection&theme=calm)](https://github.com/xneo1/docker-compose-collection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=tailscale-udm&theme=synthwave)](https://github.com/xneo1/tailscale-udm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=supervised-homeassistant&theme=omni)](https://github.com/xneo1/supervised-homeassistant)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=M5Stack-Air-Quality-ESPHome&theme=omni)](https://github.com/xneo1/M5Stack-Air-Quality-ESPHome)
