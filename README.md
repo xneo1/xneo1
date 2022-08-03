@@ -44,7 +44,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xneo1&show_icons=true&theme=outrun)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xneo1)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xneo1&theme=vue-dark)](https://git.io/streak-stats)
 
 ### ...And some pinned repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xneo1&repo=portainer_templates&theme=calm)](https://github.com/xneo1/portainer_templates)
