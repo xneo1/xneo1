@@ -1,5 +1,4 @@
-
-## Hi random Internet user ! 👋
+## Hi random Internet user ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <!--#**xneo1/xneo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -71,6 +70,8 @@
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)](https://kubernetes.io)
 [![Bash](https://img.shields.io/badge/-Bash-blue?style=flat-circle&logo=gnubash)](https://www.gnu.org/software/bash)
 [![CSS3](https://img.shields.io/badge/-CSS3-white?logoColor=black&?style=flat-circle&logo=css3)](https://www.w3schools.com/css/)
+[![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)](https://www.php.net)
+
 [![Github](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)](https://www.github.com/)
 [![Linode](https://img.shields.io/badge/-Linode-blue?style=flat-circle&logo=linode)](https://www.linode.com/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)](https://www.tensorflow.org)
