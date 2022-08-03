@@ -87,3 +87,7 @@
 [![Zwave](https://img.shields.io/badge/-Zwave-gray?style=flat-circle&logo=zwave)](https://www.z-wave.com)
 [![Zigbee](https://img.shields.io/badge/-Zigbee-gray?style=flat-circle&logo=zigbee)](https://csa-iot.org/all-solutions/zigbee/)
 [![Matter](https://img.shields.io/badge/-Matter-gray?style=flat-circle&logo=matter)](https://csa-iot.org/all-solutions/matter/)
+
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=xneo1.xneo1" alt="visitor badge"/>
+</p>
