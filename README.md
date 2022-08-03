@@ -69,9 +69,10 @@
 ### Learning/Tinkering with:
 ![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)
+![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
 
 ### Dbs that I use:
-![MariaDB](https://img.shields.io/badge/-Mariadb-brown?style=flat-circle&logo=mariadb)!
+![MariaDB](https://img.shields.io/badge/-Mariadb-brown?style=flat-circle&logo=mariadb)
 
 
 ### OS that I use:
