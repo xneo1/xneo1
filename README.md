@@ -34,8 +34,6 @@
 - 🎤 I also have a podcast named "TechIoT" related, as the name implies , to Tech and Internet of Things. Listen on [![Anchor.fm](https://img.shields.io/badge/-Anchor.fm-black?style=flat-circle&logo=anchor)](https://www.anchor.fm/techiot) with links to 8 platforms. Also podcast is on on [![Youtube](https://img.shields.io/badge/-Youtube.fm-black?style=flat-circle&logo=youtube)](https://www.youtube.com/techiot)
 - 📫 How to reach me: [@xneo1](https://twitter.com/xneo1)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1259912891&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 ### Also check out my blogs:
 - [Vagelisfragkos.com - My Personal Website](https://www.vagelisfragkos.com/en/)
 - [Gadgetocosmos.com - All about gadgets!](https://www.gadgetocosmos.com/)
