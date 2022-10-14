@@ -55,7 +55,9 @@
 [![Vsphere](https://img.shields.io/badge/-Vsphere-blue?style=flat-circle&logo=vmware)](https://www.vmware.com)
 [![Proxmox](https://img.shields.io/badge/-Proxmox-blue?style=flat-circle&logo=proxmox)](https://www.proxmox.com)
 [![TrueNAS](https://img.shields.io/badge/-TrueNAS-blue?style=flat-circle&logo=truenas)](https://www.truenas.com)
-[![Qnap](https://img.shields.io/badge/-Qnap-green?style=flat-circle&logo=qnap)](https://www.qnap.com)
+[![Qnap](https://img.shields.io/badge/-Qnap-blue?style=flat-circle&logo=qnap)](https://www.qnap.com)
+[![Raspberry Pi]([https://img.shields.io/badge/-Qnap-blue?style=flat-circle&logo=qnap](https://img.shields.io/badge/-Raspberry%20Pi-blue?style=flat-circle&logo=raspberrypi))]([https://www.qnap.com](https://www.raspberrypi.org))
+
 
 ### Tools, Technologies & Frameworks I use:
 [![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=visualstudiocode)](https://code.visualstudio.com)
