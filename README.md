@@ -39,7 +39,7 @@
 - [Gadgetocosmos.com - All about gadgets!](https://www.gadgetocosmos.com/)
 - [Yamyam - The stomach delight!](https://www.yamyam.gr/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xneo1&show_icons=true&theme=outrun)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xneo1&show_icons=true&theme=outrun)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xneo1&theme=vue-dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=xneo1)](https://github.com/ryo-ma/github-profile-trophy)
 
