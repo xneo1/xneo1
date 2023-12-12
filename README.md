@@ -31,7 +31,7 @@
 - 💬 Ask me about ...everything cause I love to socialize, debate and learn!
 - 📚 I love reading books related to philosophy, self-improvement as well as sci-fi, adventures, crime novels and more.
   Add me on [![Goodreads](https://img.shields.io/badge/-Goodreads-orange?style=flat-circle&logo=Goodreads)](https://www.goodreads.com/user/show/4903808-vagelis)
-- 🎤 I also have a podcast named "TechIoT" related, as the name implies , to Tech and Internet of Things. Listen on [![Anchor.fm](https://img.shields.io/badge/-Anchor.fm-black?style=flat-circle&logo=anchor)](https://www.anchor.fm/techiot) with links to 8 platforms. Also podcast is on on [![Youtube](https://img.shields.io/badge/-Youtube.fm-black?style=flat-circle&logo=youtube)](https://www.youtube.com/techiot)
+- 🎤 I also have a podcast named "TechIoT" related, as the name implies , to Tech and Internet of Things. Listen on [![Spotify.com](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://podcasters.spotify.com/pod/show/techiot) with links to 8 platforms. Also podcast is on on [![Youtube](https://img.shields.io/badge/-Youtube.fm-black?style=flat-circle&logo=youtube)](https://www.youtube.com/techiot)
 - 📫 How to reach me: [@xneo1](https://twitter.com/xneo1)
 
 ### Also check out my blogs:
